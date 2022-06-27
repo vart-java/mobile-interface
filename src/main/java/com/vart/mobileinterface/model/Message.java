@@ -11,7 +11,6 @@ public class Message {
 
     @Id
     private String id;
-
     private String createDate;
     private String value;
 }
